@@ -5607,6 +5607,10 @@ body.keyboard-focused .dropdown-content li:focus {
   background-color: rgba(244, 67, 54, 0.7);
 }
 
+.waves-effect.waves-pink .waves-ripple{
+  background-color:rgba(255,182,193);
+}
+
 .waves-effect.waves-yellow .waves-ripple {
   background-color: rgba(255, 235, 59, 0.7);
 }
@@ -11490,7 +11494,7 @@ button:focus {
 }
 
 i {
-  color: #1de9c3;
+  color: #ffafbd;
 }
 
 .primary-color {
@@ -11713,7 +11717,7 @@ nav.navbar.solid {
 }
 
 nav.navbar.solid.dark, nav.navbar.solid {
-  background-color: #10a98d;
+  background-color: #ffafbd;
 }
 
 nav.navbar.solid.dark :not(.dropdown-content) > li > a, nav.navbar.solid :not(.dropdown-content) > li > a {
@@ -11775,7 +11779,7 @@ nav.navbar ul a:hover {
 
 /**** HEADER ****/
 .header {
-  color: #1de9c3;
+  color: #ffafbd;
 }
 
 .header .header-wrapper {
@@ -11916,7 +11920,7 @@ nav.navbar ul a:hover {
   padding: 64px 0;
   height: 100%;
   overflow: hidden;
-  background-color: #000;
+  background-color: #2193b0;
   z-index: 3;
 }
 
