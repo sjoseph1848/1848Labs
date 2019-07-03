@@ -5631,6 +5631,10 @@ body.keyboard-focused .dropdown-content li:focus {
   background-color: rgba(0, 150, 136, 0.7);
 }
 
+.waves-effect.waves-yellow .waves-ripple {
+  background-color: #fed601;
+}
+
 .waves-effect input[type="button"], .waves-effect input[type="reset"], .waves-effect input[type="submit"] {
   border: 0;
   font-style: normal;
@@ -11937,6 +11941,10 @@ nav.navbar ul a:hover {
 .section.light {
   color: rgba(0, 0, 0, 0.6);
   background-color: #ffafbd;
+}
+
+.contact {
+  color: #fed601;
 }
 
 .section.light h1, .section.light h2, .section.light h3, .section.light h4, .section.light h5 {
