@@ -11656,6 +11656,8 @@ nav.navbar ul.dropdown-content li > span:hover::before,
   background-color: #2193b0;
 }
 
+
+
 .sidenav li.active > a,
 .sidenav li:hover > a,
 .sidenav li > a:hover,
@@ -11669,6 +11671,10 @@ nav.navbar ul.dropdown-content li > span:hover::before,
 .sidenav li > a.active::before {
   -webkit-transform: scaleY(1);
           transform: scaleY(1);
+}
+
+#brighten {
+  color:yellow;
 }
 
 .sidenav li > a {
