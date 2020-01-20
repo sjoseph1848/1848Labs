@@ -9560,7 +9560,7 @@ input[type=range]::-ms-thumb {
 }
 
 .pricing-table .pricing-features .pricing-feature:hover {
-  background-color: rgba(29, 233, 195, 0.2);
+  background-color: rgba(255,175,189, 0.7);
 }
 
 .section.white .pricing-header i {
