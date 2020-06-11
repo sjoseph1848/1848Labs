@@ -480,6 +480,14 @@ tt {
     background:#555;
 }
 
+
+a {
+  color: white;
+  text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+
 @media only screen and (max-width:540px) {
     .memberful-button {display:none}
 }
